@@ -1,1 +1,1 @@
-function novafuncao(){}
+function novafuncao(){console.log("hello")}
